@@ -71,3 +71,32 @@ header div span {
   border-radius: 2px;
   display: inline-block;
 }
+
+.post-container {
+  max-width: 600px;
+  margin: 0 auto;
+  margin-bottom: 150px;
+  background-color: #f1f1f1;
+  margin-top: 150px;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.post-container img {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.post-container h2 {
+  margin-bottom: 20px;
+  padding: 0 20px;
+}
+
+.post-container p {
+  margin-bottom: 20px;
+  padding: 0 20px;
+}
+
+.author {
+  color: #aaa;
+}
